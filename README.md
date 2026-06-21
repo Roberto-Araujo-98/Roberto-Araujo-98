@@ -7,13 +7,13 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF99&width=600&lines=Estudiante+de+Software;y+Telecomunicaciones;Entusiasta+de+la+IA;Backend+Developer" alt="Typing SVG" />
 </p>
----
+
 
 > *"El hombre es una cuerda tendida entre el animal y el superhombre —una cuerda sobre un abismo."*
 
 Estudiante de Software con IA. y Telecomunicaciones. Programo en Java, Python, PHP y SQL. Apasionado por la IA, redes neuronales y Python. Siempre construyendo y aprendiendo, con una perspectiva técnica que busca conectar el hardware con la lógica del software.
 
----
+
 <!-- SECCIÓN DIVIDIDA: QUICK INFO + ZORRO ANIMADO TRANSPARENTE -->
 <table>
   <tr>
@@ -34,23 +34,31 @@ const roberto = {
 </td>
 <!-- Mitad Derecha: Imagen del Zorro Animado Transparente -->
 <td width="50%" align="center" valign="middle">
-  <!-- Zorro de píxeles animado con transparencia real -->
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/main/assets/fox_pixel_art_transparent.webp" alt="Zorro Hacker Animado Transparente" width="85%" />
-</td>
----
+<!-- Mitad Derecha: Imagen del Zorro (GIF directo y estable) -->
+    <td width="50%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ4ZzVqbmR4ZzVqbmR4ZzVqbmR4ZzVqbmR4ZzVqbmR4ZzVqJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/l41lTjJp9hYyOQ1m0/giphy.gif" alt="Zorro Hacker" width="200" />
+    </td>
 
 ### 🛠️ Tecnologías
 
-**Lenguajes:**
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+<p align="center">
+  <strong>Languages:</strong><br>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
-**Bases de Datos:**
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" />
+<p align="center">
+  <strong>Database:</strong><br>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+</p>
 
-**Herramientas:**
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-
----
+<p align="center">
+  <strong>Tools:</strong><br>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 
 
@@ -59,6 +67,6 @@ const roberto = {
   <img src="https://github-readme-stats.vercel.app/api?username=Roberto-Araujo-98&show_icons=true&theme=radical&hide_border=true" />
 </p>
 
----
+
 
 *¿Te gustaría colaborar? Estoy abierto a aprender y construir nuevos proyectos.*
