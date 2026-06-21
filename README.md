@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy Roberto! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF99&width=435&lines=Estudiante+de+Software+y+Telecomunicaciones;Entusiasta+de+la+IA;Backend+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF99&width=600&lines=Estudiante+de+Software+y+Telecomunicaciones;Entusiasta+de+la+IA;Backend+Developer" alt="Typing SVG" />
 </p>
 
 ---
