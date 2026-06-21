@@ -8,7 +8,7 @@
 
 > *"El hombre es una cuerda tendida entre el animal y el superhombre —una cuerda sobre un abismo."*
 
-Estudiante de Software con IA y Telecomunicaciones. Programo en Java, Python, PHP y SQL. Apasionado por la IA, redes neuronales y Python. Siempre construyendo y aprendiendo, con una perspectiva técnica que busca conectar el hardware con la lógica del software.
+Estudiante de Software con IA. y Telecomunicaciones. Programo en Java, Python, PHP y SQL. Apasionado por la IA, redes neuronales y Python. Siempre construyendo y aprendiendo, con una perspectiva técnica que busca conectar el hardware con la lógica del software.
 
 ---
 
