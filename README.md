@@ -1,10 +1,15 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/OR13L/OR13L/main/assets/wave.gif" width="100%">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 200" width="100%" height="100%">
+    <defs>
+      <linearGradient id="blueGreenGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color:#0052D4;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#00FF99;stop-opacity:1" />
+      </linearGradient>
+    </defs>
+    <rect width="1200" height="150" rx="15" fill="url(#blueGreenGrad)" />
+    <text x="50%" y="90" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="50" font-weight="bold" fill="white" text-anchor="middle">¡Hola, soy Roberto! 👋</text>
+  </svg>
 </p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0052D4,00FF99&height=180&section=header&text=¡Hola,%20soy%20Roberto! 👋&fontSize=45&animation=twinkling" width="100%">
-</p>
-
 
 
 <p align="center">
@@ -67,18 +72,19 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Roberto-Araujo-98&show_icons=true&theme=radical&hide_border=true" />
 </p>
 
-<br><br>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
-</p>
-
-
-
 *¿Te gustaría colaborar? Estoy abierto a aprender y construir nuevos proyectos.*
 
 <br><br>
 
+<br><br>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0052D4,00FF99&height=100&section=footer" width="100%">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 200" width="100%" style="margin-bottom: -10px;">
+    <defs>
+      <linearGradient id="footerWaveGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color:#0052D4;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#00FF99;stop-opacity:1" />
+      </linearGradient>
+    </defs>
+    <path fill="url(#footerWaveGrad)" d="M0,96L120,112C240,128,480,160,720,160C960,160,1200,128,1320,112L1440,96L1440,200L1320,200C1200,200,960,200,720,200C480,200,240,200,120,200L0,200Z"></path>
+  </svg>
 </p>
