@@ -9,30 +9,14 @@
 </p>
 
 
-> *"El hombre es una cuerda tendida entre el animal y el superhombre —una cuerda sobre un abismo."*
+<p align="center">
+  <em>"El hombre es una cuerda tendida entre el animal y el superhombre —una cuerda sobre un abismo."</em>
+</p>
 
-Estudiante de Software con IA. y Telecomunicaciones. Programo en Java, Python, PHP y SQL. Apasionado por la IA, redes neuronales y Python. Siempre construyendo y aprendiendo, con una perspectiva técnica que busca conectar el hardware con la lógica del software.
+<p align="center">
+  Estudiante de Software con IA y Telecomunicaciones. Programo en Java, Python, PHP y SQL. Apasionado por la IA, redes neuronales y Python. Siempre construyendo y aprendiendo, con una perspectiva técnica que busca conectar el hardware con la lógica del software.
+</p>
 
-
-<!-- SECCIÓN DIVIDIDA: QUICK INFO + ZORRO ANIMADO TRANSPARENTE -->
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📄 Quick Info</h3>
-```javascript
-const roberto = {
-  ubicacion: "Arequipa, PE 🇵🇪",
-  educacion: "Software (SENATI) & Telecom (UNSA)",
-  intereses: ["IA", "Deep Learning", "Backend"],
-  code: ["Java", "PHP", "Python", "SQL"],
-  funFact: "Debuggeo con café y curiosidad ☕"
-};
-    </td>
-<td width="50%" align="center" valign="middle">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ4ZzVqbmR4ZzVqbmR4ZzVqbmR4ZzVqbmR4ZzVqbmR4ZzVqJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/l41lTjJp9hYyOQ1m0/giphy.gif" alt="Zorro Hacker" width="200" />
-</td>  
-
-    
 ### 🛠️ Tecnologías
 
 <p align="center">
