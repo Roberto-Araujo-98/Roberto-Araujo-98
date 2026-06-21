@@ -1,21 +1,12 @@
 <p align="center">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 200" width="100%" height="100%">
-    <defs>
-      <linearGradient id="blueGreenGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" style="stop-color:#0052D4;stop-opacity:1" />
-        <stop offset="100%" style="stop-color:#00FF99;stop-opacity:1" />
-      </linearGradient>
-    </defs>
-    <rect width="1200" height="150" rx="15" fill="url(#blueGreenGrad)" />
-    <text x="50%" y="90" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="50" font-weight="bold" fill="white" text-anchor="middle">¡Hola, soy Roberto! 👋</text>
-  </svg>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff&customColorList=00d2ff,00FF99&height=120&section=header" width="100%"/>
 </p>
 
+<h1 align="center"><font color="#ffffff">¡Hola, soy Roberto!</font></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF99&width=600&lines=Estudiante+de+Software;y+Telecomunicaciones;Entusiasta+de+la+IA;Backend+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00d2ff&center=true&vCenter=true&width=750&lines=Estudiante+de+Software;y+Telecomunicaciones;Data+and+Analytics+Explorer;Frontend+Developer;Backend+Developer" alt="Typing SVG" />
 </p>
-
 
 <p align="center">
   <em>"El hombre es una cuerda tendida entre el animal y el superhombre —una cuerda sobre un abismo."</em>
@@ -72,19 +63,19 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Roberto-Araujo-98&show_icons=true&theme=radical&hide_border=true" />
 </p>
 
-*¿Te gustaría colaborar? Estoy abierto a aprender y construir nuevos proyectos.*
-
-<br><br>
-
-<br><br>
+### 🧠 Más allá del código
 <p align="center">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 200" width="100%" style="margin-bottom: -10px;">
-    <defs>
-      <linearGradient id="footerWaveGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" style="stop-color:#0052D4;stop-opacity:1" />
-        <stop offset="100%" style="stop-color:#00FF99;stop-opacity:1" />
-      </linearGradient>
-    </defs>
-    <path fill="url(#footerWaveGrad)" d="M0,96L120,112C240,128,480,160,720,160C960,160,1200,128,1320,112L1440,96L1440,200L1320,200C1200,200,960,200,720,200C480,200,240,200,120,200L0,200Z"></path>
-  </svg>
+  <font color="#00d2ff"><strong>Sistemas Operativos:</strong></font><br>
+  Disfruto explorando distribuciones Linux y aplicando técnicas de optimización y tuning de sistema en hardware clásico.
+</p>
+<br>
+<p align="center">
+  <font color="#00FF99"><strong>Filosofía</strong></font><br>
+  Interesado en corrientes filosóficas como el absurdismo y el nihilismo activo, buscando siempre el orden lógico dentro del caos técnico.
+</p>
+<br> </br>
+¿Te gustaría colaborar? Estoy abierto a aprender y construir nuevos proyectos.*
+<br> </br>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff&customColorList=00d2ff,00FF99&height=100&section=footer" width="100%"/>
 </p>
