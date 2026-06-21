@@ -15,14 +15,11 @@ Estudiante de Software con IA. y Telecomunicaciones. Programo en Java, Python, P
 
 
 <!-- SECCIÓN DIVIDIDA: QUICK INFO + ZORRO ANIMADO TRANSPARENTE -->
-<table>
+<table align="center" width="100%">
   <tr>
-    <!-- Mitad Izquierda: Quick Info (como código) -->
     <td width="50%" valign="top">
       <h3>📄 Quick Info</h3>
-      <br>
-
-javascript
+```javascript
 const roberto = {
   ubicacion: "Arequipa, PE 🇵🇪",
   educacion: "Software (SENATI) & Telecom (UNSA)",
@@ -30,33 +27,28 @@ const roberto = {
   code: ["Java", "PHP", "Python", "SQL"],
   funFact: "Debuggeo con café y curiosidad ☕"
 };
-
-</td>
-<!-- Mitad Derecha: Imagen del Zorro Animado Transparente -->
-<td width="50%" align="center" valign="middle">
-<!-- Mitad Derecha: Imagen del Zorro (GIF directo y estable) -->
-    <td width="50%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ4ZzVqbmR4ZzVqbmR4ZzVqbmR4ZzVqbmR4ZzVqbmR4ZzVqJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/l41lTjJp9hYyOQ1m0/giphy.gif" alt="Zorro Hacker" width="200" />
     </td>
+<td width="50%" align="center" valign="middle">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ4ZzVqbmR4ZzVqbmR4ZzVqbmR4ZzVqbmR4ZzVqbmR4ZzVqJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/l41lTjJp9hYyOQ1m0/giphy.gif" alt="Zorro Hacker" width="200" />
+</td>  
 
+    
 ### 🛠️ Tecnologías
 
 <p align="center">
   <strong>Languages:</strong><br>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
+  <br><br> <!-- Espacio extra -->
 
-<p align="center">
   <strong>Database:</strong><br>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-</p>
+  <br><br> <!-- Espacio extra -->
 
-<p align="center">
   <strong>Tools:</strong><br>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
