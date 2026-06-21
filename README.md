@@ -72,7 +72,7 @@
   Interesado en corrientes filosóficas como el absurdismo y el nihilismo activo, buscando siempre el orden lógico dentro del caos técnico.
 </p>
 <br> </br>
-¿Te gustaría colaborar? Estoy abierto a aprender y construir nuevos proyectos.*
+¿Te gustaría colaborar? Estoy abierto a aprender y construir nuevos proyectos.
 <br> </br>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff&customColorList=00d2ff,00FF99&height=100&section=footer" width="100%"/>
