@@ -2,10 +2,10 @@
   <img src="https://raw.githubusercontent.com/OR13L/OR13L/main/assets/wave.gif" width="100%">
 </p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=¡Hola,%20soy%20Roberto!&fontSize=45&animation=twinkling" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0052D4,00FF99&height=180&section=header&text=¡Hola,%20soy%20Roberto! 👋&fontSize=45&animation=twinkling" width="100%">
 </p>
 
-<h1 align="center">¡Hola, soy Roberto! 👋</h1>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF99&width=600&lines=Estudiante+de+Software;y+Telecomunicaciones;Entusiasta+de+la+IA;Backend+Developer" alt="Typing SVG" />
@@ -76,3 +76,9 @@
 
 
 *¿Te gustaría colaborar? Estoy abierto a aprender y construir nuevos proyectos.*
+
+<br><br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0052D4,00FF99&height=100&section=footer" width="100%">
+</p>
