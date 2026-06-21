@@ -19,7 +19,7 @@
 ### 🛠️ Tecnologías
 
 <p align="center">
-  <strong>Languages:</strong><br>
+  <strong>Languages:</strong><br></br>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -28,7 +28,7 @@
 <br>
 
 <p align="center">
-  <strong>Database:</strong><br>
+  <strong>Database:</strong><br></br>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 </p>
@@ -36,7 +36,7 @@
 <br>
 
 <p align="center">
-  <strong>Tools:</strong><br>
+  <strong>Tools:</strong><br></br>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
@@ -44,15 +44,13 @@
 ### 📬 Contáctame
 
 <p align="center">
-  <strong>Professional & Code:</strong><br>
+  <strong>Professional & Code:</strong><br></br>
   <a href="https://linkedin.com/in/TU_USUARIO" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Roberto-Araujo-98" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
-
 <br>
-
 <p align="center">
-  <strong>Social & Communication:</strong><br>
+  <strong>Social & Communication:</strong><br></br>
   <a href="https://twitter.com/TU_USUARIO" target="_blank"><img src="https://img.shields.io/badge/X_/_Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://discord.com/users/TU_ID" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:TU_CORREO@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -65,12 +63,12 @@
 
 ### 🧠 Más allá del código
 <p align="center">
-  <font color="#00d2ff"><strong>Sistemas Operativos:</strong></font><br>
+  <font color="#00d2ff"><strong>Sistemas Operativos:</strong></font><br></br>
   Disfruto explorando distribuciones Linux y aplicando técnicas de optimización y tuning de sistema en hardware clásico.
 </p>
 <br>
 <p align="center">
-  <font color="#00FF99"><strong>Filosofía</strong></font><br>
+  <font color="#00FF99"><strong>Filosofía</strong></font><br></br>
   Interesado en corrientes filosóficas como el absurdismo y el nihilismo activo, buscando siempre el orden lógico dentro del caos técnico.
 </p>
 <br> </br>
