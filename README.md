@@ -1,14 +1,14 @@
 <h1 align="center">Hola, soy Roberto! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF99&width=435&lines=Estudiante+de+Software+y+Telecom;Entusiasta+de+la+IA;Backend+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF99&width=435&lines=Estudiante+de+Software+y+Telecomunicaciones;Entusiasta+de+la+IA;Backend+Developer" alt="Typing SVG" />
 </p>
 
 ---
 
 > *"El hombre es una cuerda tendida entre el animal y el superhombre —una cuerda sobre un abismo."*
 
-Estudiante de Software (SENATI) y Telecomunicaciones (UNSA). Programo en Java, PHP y SQL. Apasionado por la IA, redes neuronales y Python. Siempre construyendo y aprendiendo, con una perspectiva técnica que busca conectar el hardware con la lógica del software.
+Estudiante de Software con IA y Telecomunicaciones. Programo en Java, Python, PHP y SQL. Apasionado por la IA, redes neuronales y Python. Siempre construyendo y aprendiendo, con una perspectiva técnica que busca conectar el hardware con la lógica del software.
 
 ---
 
