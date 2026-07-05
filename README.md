@@ -62,8 +62,9 @@
 </p>
 
 ### 📊 Mis estadísticas
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Roberto-Araujo-98&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Roberto-Araujo-98&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de GitHub de Roberto Araujo" />
 </p>
 
 ### 🧠 Más allá del código
